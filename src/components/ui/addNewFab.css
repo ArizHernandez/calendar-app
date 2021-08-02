@@ -1,0 +1,26 @@
+.fab{
+  border-radius: 50%;
+  font-size: 1.33rem;
+  padding: 10px 10px;
+  position: fixed;
+  animation: fadeIn .3s ease;
+}
+
+.fab-right{
+  bottom: 10px;
+  right: 20px;
+}
+
+.fab-left{
+  bottom: 10px;
+  left: 20px;
+}
+
+@keyframes fadeIn {
+  from{
+    opacity: 0;
+  }
+  to{
+    opacity: 1;
+  }
+}

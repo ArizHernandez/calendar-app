@@ -1,0 +1,12 @@
+.language__btn{
+  background: white;
+  border: none;
+  height: 50px;
+  outline: none;
+  transition: opacity ease .3s;
+  width: 50px;
+}
+
+.language__btn:hover{
+  opacity: 80%;
+}

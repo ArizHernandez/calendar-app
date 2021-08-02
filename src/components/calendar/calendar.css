@@ -1,0 +1,17 @@
+.rbc-time-content::-webkit-scrollbar{
+  background: white;
+  width: 15px;
+}
+
+.rbc-time-content::-webkit-scrollbar-thumb{
+  background: #a3a3a3;
+  border-radius: 4px;
+}
+
+.rbc-time-content::-webkit-scrollbar-thumb:hover{
+  background: #7e7e7e;
+}
+
+.language__button-container{
+  text-align: right;
+}
